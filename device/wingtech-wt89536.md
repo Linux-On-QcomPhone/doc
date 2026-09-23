@@ -9,7 +9,7 @@
 | 电池 | 4100 mAh | Y |
 | 面板 | otm1901a | Y |
 | 触控 | goodix-gt9xx | Y |
-| Wifi && BT | msm8953 | Y |
+| Wifi && BT | wcn3660b | Y |
 | 相机 | 16MP | N |
 | 音频 | msm8953-snd-card | N |
 
